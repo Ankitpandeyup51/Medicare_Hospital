@@ -1,6 +1,6 @@
 # 🏥 Medicare Hospital
 
-> **A modern, responsive and user-friendly hospital website built to provide a smooth digital healthcare experience.**
+ **A modern, responsive and user-friendly hospital website built to provide a smooth digital healthcare experience.**
 
 Medicare Hospital is a clean and professional healthcare website where users can explore hospital services, doctors, appointments, FAQs and contact information.
 
@@ -66,10 +66,5 @@ To create a **modern digital healthcare platform** that makes hospital informati
 
 ⭐ **If you like this project, don't forget to give it a star!**
 
----
 
-### 🔗 Project Repository
-
-**Medicare Hospital:**
-https://github.com/Ankitpandeyup51/Medicare_Hospital
 
